@@ -67,7 +67,7 @@ $(function() {
         }, 1000);
         return false;
       }
-    }
+    } 
   });
   $('.browsehappy').click(function() {
     $(this).slideUp();
